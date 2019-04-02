@@ -1,0 +1,48 @@
+/*GLOBAL-------------------------------*/
+
+html {
+    height: 100%;
+}
+
+
+/*NAV-------------------------------*/
+
+
+/*HEADER-------------------------------*/
+
+
+/*BODY-------------------------------*/
+
+body {
+    font-family: palatino sans-serif;
+    height: 100vh;
+    text-align: center;
+/*    background-color:#eaeaea;*/
+}
+
+img{
+    width:250px;
+    
+}
+
+/*WRAPPER-------------------------------*/
+
+#wrapper {
+    padding-top: 30px;
+    width:1016px;
+    height:650px;
+    margin:0 auto 0 auto;
+    overflow: auto;
+}
+
+
+/*FOOTER-------------------------------*/
+
+
+/*SPECIFIC-------------------------------*/
+
+.quad {
+    display: inline-block;
+    padding: 0 2px 0 2px;
+    float:left;
+}
