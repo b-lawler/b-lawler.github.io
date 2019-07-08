@@ -22,7 +22,7 @@ img{
     grid-column: span 1;
 }
 
-@media (max-width: 600px){
+@media (max-width: 769px){
     #container {
         grid-template-columns: 1fr;
         grid-column:1/13;
